@@ -12,9 +12,9 @@ Your company now sees all the big companies creating original video content and 
 ## Data
 Our analysis will focus on certain aspects of movies by utilizing data from various sources:
 
-[**Internet Movie Database (IMDb)**](https://www.imdb.com/): user ratings and movie genres
-[**Rotten Tomatoes**](https://www.rottentomatoes.com/): runtime information
-[**The Numbers**](https://www.the-numbers.com/): movie budgets
+[**Internet Movie Database (IMDb)**](https://www.imdb.com/): user ratings and movie genres<br>
+[**Rotten Tomatoes**](https://www.rottentomatoes.com/): runtime information<br>
+[**The Numbers**](https://www.the-numbers.com/): movie budgets<br>
 
 
 We will use these data to gain insight into the following questions:
@@ -25,8 +25,10 @@ We will use these data to gain insight into the following questions:
 
 
 ## Analysis [^1]
+We utilized python libraries and modules as well as SQL (pandasql) to generate insights from .csv, .tsv, and .db files. The .db relational database can be seen here:
 ![img](./images/movie_data_erd.jpeg)
 
+We performed various statiscal analyses with our data to create the visualizations and results listed below.
 
 ## Results
 
@@ -34,6 +36,7 @@ We will use these data to gain insight into the following questions:
 - We can see here that the top genres are: Documentary, News, Biography, Music, and History. Making content that falls into these categories will be more likely to be well received.
 
 ![img](./images/budget_vs_worldwide_profit.png)
+
 ![img](./images/mean_profit_domestic_vs_world.png)
 - It appears that worldwide releases are imperative to maximize profit and have a higher chance of continued success.
 
@@ -42,9 +45,11 @@ We will use these data to gain insight into the following questions:
 
 ## Conclusions
 - The highest rated genres are Documentary, News, Biography, Music, and History, followed by Sport, War, Musical, Drama, and Family. Based on our analysis, we recommend these as projects for consideration.
-- 
+
+
 - Worldwide releases are crucial to our bottom line. Movies released eworldwide earn on averqge $50MM more than those only released domestically. Making content geared towards a worldwide release and inclusive of international markets should be a top priority.
-- 
+
+
 - We should focus on "shorts" of less than 30 minutes in length and movies between 2-3hrs in length, as these lengths have been shown to average the highest returns.
 
 
