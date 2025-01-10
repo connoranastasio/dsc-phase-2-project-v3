@@ -35,7 +35,7 @@ We performed various statiscal analyses with our data to create the visualizatio
 ![img](./images/top_genres.png)
 - We can see here that the top genres are: Documentary, News, Biography, Music, and History. Making content that falls into these categories will be more likely to be well received.
 
-![img](./images/budget_vs_worldwide_profit.png)
+![img](./images/budget_worldwide_profit.png)
 
 ![img](./images/mean_profit_domestic_vs_world.png)
 - It appears that worldwide releases are imperative to maximize profit and have a higher chance of continued success.
