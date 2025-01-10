@@ -47,7 +47,7 @@ We performed various statiscal analyses with our data to create the visualizatio
 - The highest rated genres are Documentary, News, Biography, Music, and History, followed by Sport, War, Musical, Drama, and Family. Based on our analysis, we recommend these as projects for consideration.
 
 
-- Worldwide releases are crucial to our bottom line. Movies released eworldwide earn on averqge $50MM more than those only released domestically. Making content geared towards a worldwide release and inclusive of international markets should be a top priority.
+- Worldwide releases are crucial to our bottom line. Movies released worldwide earn on average $50MM more than those only released domestically. Making content geared towards a worldwide release and inclusive of international markets should be a top priority.
 
 
 - We should focus on "shorts" of less than 30 minutes in length and movies between 2-3hrs in length, as these lengths have been shown to average the highest returns.
